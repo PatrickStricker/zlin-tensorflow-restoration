@@ -1,4 +1,3 @@
-````markdown
 # Modern Restoration of Z-Lin for CIFAR-10
 
 This repository provides a TensorFlow 2.19 restoration of the Z-Lin CIFAR-10 training pipeline originally released by Zhouhan Lin. It accompanies the DEARING 2026 workshop paper:
